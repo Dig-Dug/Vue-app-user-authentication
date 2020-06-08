@@ -4,3 +4,6 @@ Dependencies needed:
 - vue
 - vue-axios
 - vue-router
+
+![screenshot](screenshot1.JPG)
+![screenshot](screenshot2.JPG)
