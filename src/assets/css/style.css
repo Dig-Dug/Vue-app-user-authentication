@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Arvo|Montserrat');
+body {
+  padding: 25px;
+  background-image : url("box.jpg");
+  background-repeat: no-repeat;
+
+}
+div {
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Arvo', serif;
+}
+a {
+  color:coral;
+}
